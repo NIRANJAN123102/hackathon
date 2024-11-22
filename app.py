@@ -13,7 +13,7 @@ def Gen_Eff(V, CL, IL, K, Rse, Ra):
 
 # Web Application Interface
 def main():
-    st.title("2205A21011-PS11")  # Change title to your roll number and problem statement number
+    st.title("2205A21023-PS11")  # Change title to your roll number and problem statement number
     st.write("Calculate the efficiency of a DC series motor at various loads.")
     
     # Input fields for the user to enter the values
